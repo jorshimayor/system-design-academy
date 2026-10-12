@@ -477,6 +477,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 
 #### S ai  
 - [Spec driven development for AI agents](https://newsletter.systemdesign.one/p/spec-driven-development-ai-agents/)
+- [How to Scale an AI App to 1 Million Users in Production](https://newsletter.systemdesign.one/p/llm-inference-cost-optimization)
 
 #### V ai
 
