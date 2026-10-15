@@ -303,6 +303,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 - [How Does HTTPS Work](https://newsletter.systemdesign.one/p/how-does-https-work)
 - [Must Know HTTP Headers](https://newsletter.systemdesign.one/p/http-headers)
 - [What Is High Availability](https://newsletter.systemdesign.one/p/what-is-high-availability)
+- [HTTP1 vs HTTP2 vs HTTP3 - Part 1](https://newsletter.systemdesign.one/p/http-concepts-explained)
 
 #### J technologies
 
