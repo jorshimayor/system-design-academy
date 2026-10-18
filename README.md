@@ -1,19 +1,15 @@
 <p align="center">
-  <a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents-oct-7/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">
-    <img src="https://raw.githubusercontent.com/systemdesign42/system-design-academy/main/Oct%207%20webinar%201584x396%20banner.png" alt="Oct 7 Webinar">
-  </a>
+  <a href="https://getunblocked.com/events/how-to-stop-rewriting-your-agent-s-code-oct-28/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign"><img src="https://i.imgur.com/rvY9aLw.png" /> </a>
 </p>
 
+
 <p align="center">
-<a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents-oct-7/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">[Webinar] How to stop babysitting your agents </a> (Sponsored by <a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents-oct-7/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">Unblocked</a>)
-
-Agents can generate code. Getting it right for your system is the hard part. You end up wasting time and tokens in the back and forth. Join us for a FREE webinar on Oct 7 to see how to give agents exactly what they need the first time (includes live demo).
-
+You write the rules files, maintain the skills, and paste in the Slack thread your agent missed. But hand-curated context goes stale, and when the sources disagree, your agent can’t tell which is right. <a href="https://getunblocked.com/events/how-to-stop-rewriting-your-agent-s-code-oct-28/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">Join us live on Oct 28 (FREE)</a> to see how a context engine helps agents get it right the first time.
 </p>
 
 <p align="center">
    👋
-   <a href="https://getunblocked.com/events/how-to-stop-babysitting-your-agents-oct-7/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">
+   <a href="https://getunblocked.com/events/how-to-stop-rewriting-your-agent-s-code-oct-28/?utm_source=github&utm_medium=oss&utm_campaign=systemdesign">
      <b> Register now </b>
    </a>
 </p>
