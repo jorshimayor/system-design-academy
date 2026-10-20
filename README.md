@@ -407,6 +407,7 @@ You write the rules files, maintain the skills, and paste in the Slack thread yo
 - [30 Agentic Engineering Concepts, Explained Simply](https://newsletter.systemdesign.one/p/agentic-engineering)
 - [How Agent to Agent Protocol Works](https://newsletter.systemdesign.one/p/agent-to-agent-protocol)
 - [64 AI Concepts - Part 1](https://newsletter.systemdesign.one/p/ai-concepts-explained-for-beginners)
+- [64 AI Concepts - Part 2](https://newsletter.systemdesign.one/p/advanced-ai-concepts-explained)
 
 #### C ai
 
